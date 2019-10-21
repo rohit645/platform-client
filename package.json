@@ -71,7 +71,7 @@
     "karma-fixture": "^0.2.6",
     "karma-jasmine": "^1.0.2",
     "karma-json-fixtures-preprocessor": "0.0.6",
-    "karma-notify-reporter": "^1.0.0",
+    "karma-notify-reporter": "^1.2.0",
     "karma-phantomjs-launcher": "^1.0.0",
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^2.0.3",
